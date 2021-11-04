@@ -46,7 +46,7 @@ http://localhost:8080/clients <br>
 > ![New](images/clients-add.PNG)
 > 
 > > #### Branch
-> > ***GET*** <br>
+> ***GET*** <br>
 > <br>
 http://localhost:8080/branches <br>
 > Gives a list all country-branches <br>
@@ -65,7 +65,7 @@ http://localhost:8080/branches <br>
 > ![New](images/branches-add.PNG)
 >
 > > #### Device
-> > ***GET*** <br>
+> ***GET*** <br>
 > <br>
 http://localhost:8080/devices <br>
 > Gives a list all available devices <br>
@@ -85,7 +85,7 @@ http://localhost:8080/devices <br>
 
 >
 > > #### Country
-> > ***GET*** <br>
+> ***GET*** <br>
 > <br>
 http://localhost:8080/countries <br>
 > Gives a list all available countries <br>
