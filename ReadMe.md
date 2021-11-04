@@ -27,7 +27,7 @@ The application start by adding some seed data for each entity.
 
 ### Application endpoints
 > #### Client
-> > ***GET*** <br>
+> ***GET*** <br>
 > <br>
 http://localhost:8080/clients <br>
 > Gives a list all clients <br>
